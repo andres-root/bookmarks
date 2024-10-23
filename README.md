@@ -12,3 +12,8 @@ A collection of interesting courses, links and tutorials.
 ## Embedded Systems
 
 - [The Journey of an Embedded Systems Engineer: From Logic Design to Implementing a Linux SoC and Beyond](https://github.com/splinedrive/kianRiscV)
+
+## Gamedev
+
+- [Itch.io game jams](https://itch.io/jams)
+- [Gamedev resources](https://develop.games)
