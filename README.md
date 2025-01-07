@@ -17,3 +17,7 @@ A collection of interesting courses, links and tutorials.
 
 - [Itch.io game jams](https://itch.io/jams)
 - [Gamedev resources](https://develop.games)
+
+## Linear Algebra
+
+- [Applied Linear Algebra](https://alistairsavage.ca/mat3341/notes/MAT3341-Applied_Linear_Algebra.pdf)
